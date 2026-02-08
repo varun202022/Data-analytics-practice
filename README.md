@@ -9,7 +9,7 @@ This repository tracks my journey to become a Data Analyst.
 
 ## Upcoming Projects
 - Sales Analysis (Excel)
-- HR Analytics Dashboard (Power BI)
+- Coffee shop sales Dashboard (Power BI)
 - SQL Practice Queries
 
 ## Goal
